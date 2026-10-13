@@ -1,0 +1,3 @@
+interface:
+  display_name: "NixOS VM Workflow"
+  short_description: "Edit, build and verify NixOS changes in a VM"
